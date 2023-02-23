@@ -31,7 +31,7 @@
       "img": "dist/img/copas/copablanconegro.png"
     },
     {
-      "name": "opa Blanco y Negro",
+      "name": "Copa Blanco y Negro",
       "price": "6.50€",
       "img": "dist/img/copas/blancoNegro.png"
     }
@@ -59,19 +59,19 @@
       "items": [
         {
           "name": "Barquillo Grande",
-          "price": "4.00€"
-        },
-        {
-          "name": "Barquillo Pequeño",
-          "price": "4.20€"
-        },
-        {
-          "name": "Cucurucho Grande",
           "price": "5.50€"
         },
         {
-          "name": "Cucurucho Pequeño",
+          "name": "Barquillo Pequeño",
           "price": "4.80€"
+        },
+        {
+          "name": "Cucurucho Grande",
+          "price": "4.30€"
+        },
+        {
+          "name": "Cucurucho Pequeño",
+          "price": "3.50€"
         },
         {
           "name": "Barquillo Chocolate",

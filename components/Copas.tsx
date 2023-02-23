@@ -415,7 +415,7 @@ export function Copas(){
             <a href="" class="card__icon">
             </a>
             <div class="card__name">
-              <h4>Tarrina 1 Litro<br/>18€</h4>
+              <h4>Tarrina 1 Litro<br/>18.20€</h4>
             </div>
             <a href="" class="card__icon">
             </a>
