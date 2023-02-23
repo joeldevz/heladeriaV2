@@ -1,10 +1,10 @@
 import { Head } from "$fresh/runtime.ts";
 import { Handlers, PageProps } from "$fresh/server.ts";
-import { Copas } from "../components/Copas.tsx";
-import { Footer } from "../components/Footer.tsx";
-import { Nav } from "../components/Nav.tsx";
-import FilterIce from "../islands/FilterIce.tsx";
-import { getIces } from "../utils/getHelados.ts";
+import { Copas } from "../../components/Copas.tsx";
+import { Footer } from "../../components/Footer.tsx";
+import { Nav } from "../../components/Nav.tsx";
+import FilterIce from "../../islands/FilterIce.tsx";
+import { getIces } from "../../utils/getHelados.ts";
 export const handler: Handlers = {
   async GET(req, context) {
     const ices = await getIces();
