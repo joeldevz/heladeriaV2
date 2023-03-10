@@ -20,7 +20,7 @@ export function Copas(){
             </a>
           </div>
         </article>
-        <h2>Granizado<br/>4.20€</h2>
+        <h2>Granizado<br/>3.90€</h2>
         <article class="card">
           <div class="card__img" style="width: 80% !important; text-align:center;">
             <img src="./dist/img/hail/granizadoCafe.png" style="width: 90% !important;"
@@ -397,7 +397,7 @@ export function Copas(){
             <a href="" class="card__icon">
             </a>
             <div class="card__name">
-              <h4>Tarrina 1/2 Litro<br/>9.6€</h4>
+              <h4>Tarrina 1/2 Litro<br/>7.5€</h4>
             </div>
             <a href="" class="card__icon">
             </a>
@@ -415,7 +415,7 @@ export function Copas(){
             <a href="" class="card__icon">
             </a>
             <div class="card__name">
-              <h4>Tarrina 1 Litro<br/>18.20€</h4>
+              <h4>Tarrina 1 Litro<br/>17.50€</h4>
             </div>
             <a href="" class="card__icon">
             </a>
