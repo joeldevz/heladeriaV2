@@ -1,39 +1,57 @@
-export function Copas(){
-    return (
-      <>
-         <div class="menu-card bd-grid" id="granizado">
+export function Copas() {
+  return (
+    <>
+      <div class="menu-card bd-grid" id="granizado">
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/hail/horchataCarta.png" style="width: 90% !important;" alt="granizados heladeria roma"
-              loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/hail/horchataCarta.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
             </a>
             <div class="card__name">
-              <h4>Horchata<br/>4.00€</h4>
+              <h4>
+                Horchata<br />4.00€
+              </h4>
             </div>
             <a href="" class="card__icon">
             </a>
           </div>
         </article>
-        <h2>Granizado<br/>3.90€</h2>
+        <h2>
+          Granizado<br />3.90€
+        </h2>
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/hail/granizadoCafe.png" style="width: 90% !important;"
-              alt="granizados heladeria roma" loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/hail/granizadoCafe.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
             </a>
             <div class="card__name">
-              <h4>Café<br/>4.00€</h4>
+              <h4>
+                Café<br />4.00€
+              </h4>
             </div>
             <a href="" class="card__icon">
             </a>
@@ -41,12 +59,18 @@ export function Copas(){
         </article>
 
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/hail/granizadoChicle.png" style="width: 90% !important;"
-              alt="granizados heladeria roma" loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/hail/granizadoChicle.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
@@ -59,12 +83,18 @@ export function Copas(){
           </div>
         </article>
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/hail/granizadoCola.png" style="width: 90% !important;"
-              alt="granizados heladeria roma" loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/hail/granizadoCola.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
@@ -77,12 +107,18 @@ export function Copas(){
           </div>
         </article>
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/hail/granizadoDracula.png" style="width: 90% !important;"
-              alt="granizados heladeria roma" loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/hail/granizadoDracula.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
@@ -95,12 +131,18 @@ export function Copas(){
           </div>
         </article>
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/hail/granizadoEnergy.png" style="width: 90% !important;"
-              alt="granizados heladeria roma" loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/hail/granizadoEnergy.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
@@ -113,12 +155,18 @@ export function Copas(){
           </div>
         </article>
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/hail/granizadoFresa.png" style="width: 90% !important;"
-              alt="granizados heladeria roma" loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/hail/granizadoFresa.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
@@ -131,12 +179,18 @@ export function Copas(){
           </div>
         </article>
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/hail/granizadoFrutaPasion.png" style="width: 90% !important;"
-              alt="granizados heladeria roma" loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/hail/granizadoFrutaPasion.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
@@ -149,12 +203,18 @@ export function Copas(){
           </div>
         </article>
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/hail/granizadoFrutasBosque.png" style="width: 90% !important;"
-              alt="granizados heladeria roma" loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/hail/granizadoFrutasBosque.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
@@ -167,12 +227,18 @@ export function Copas(){
           </div>
         </article>
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/hail/GranizadoLimon.png" style="width: 90% !important;"
-              alt="granizados heladeria roma" loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/hail/GranizadoLimon.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
@@ -185,12 +251,18 @@ export function Copas(){
           </div>
         </article>
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/hail/granizadoMango.png" style="width: 90% !important;"
-              alt="granizados heladeria roma" loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/hail/granizadoMango.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
@@ -203,12 +275,18 @@ export function Copas(){
           </div>
         </article>
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/hail/granizadoManzana.png" style="width: 90% !important;"
-              alt="granizados heladeria roma" loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/hail/granizadoManzana.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
@@ -221,12 +299,18 @@ export function Copas(){
           </div>
         </article>
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/hail/granizadoMelon.png" style="width: 90% !important;"
-              alt="granizados heladeria roma" loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/hail/granizadoMelon.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
@@ -239,12 +323,18 @@ export function Copas(){
           </div>
         </article>
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/hail/granizadoMenta.png" style="width: 90% !important;"
-              alt="granizados heladeria roma" loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/hail/granizadoMenta.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
@@ -257,12 +347,18 @@ export function Copas(){
           </div>
         </article>
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/hail/granizadoMojito.png" style="width: 90% !important;"
-              alt="granizados heladeria roma" loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/hail/granizadoMojito.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
@@ -275,12 +371,18 @@ export function Copas(){
           </div>
         </article>
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/hail/granizadoNaranja.png" style="width: 90% !important;"
-              alt="granizados heladeria roma" loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/hail/granizadoNaranja.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
@@ -293,12 +395,18 @@ export function Copas(){
           </div>
         </article>
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/hail/granizadoPiña.png" style="width: 90% !important;"
-              alt="granizados heladeria roma" loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/hail/granizadoPiña.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
@@ -311,12 +419,18 @@ export function Copas(){
           </div>
         </article>
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/hail/granizadoPiruleta.png" style="width: 90% !important;"
-              alt="granizados heladeria roma" loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/hail/granizadoPiruleta.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
@@ -329,12 +443,18 @@ export function Copas(){
           </div>
         </article>
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/hail/granizadoPlatano.png" style="width: 90% !important;"
-              alt="granizados heladeria roma" loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/hail/granizadoPlatano.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
@@ -347,12 +467,18 @@ export function Copas(){
           </div>
         </article>
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/hail/granizadoSandia.png" style="width: 90% !important;"
-              alt="granizados heladeria roma" loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/hail/granizadoSandia.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
@@ -365,12 +491,18 @@ export function Copas(){
           </div>
         </article>
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/hail/granizadoTropical.png" style="width: 90% !important;"
-              alt="granizados heladeria roma" loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/hail/granizadoTropical.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
@@ -384,44 +516,62 @@ export function Copas(){
         </article>
       </div>
       <div class="menu-card bd-grid" id="tarrinas">
-        <h2>Para Llevar<br/> Hasta 3 sabores</h2>
+        <h2>
+          Para Llevar<br /> Hasta 3 sabores
+        </h2>
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/tarrinas/medioLitro.png" style="width: 90% !important;" alt="granizados heladeria roma"
-              loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/tarrinas/medioLitro.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
             </a>
             <div class="card__name">
-              <h4>Tarrina 1/2 Litro<br/>7.5€</h4>
+              <h4>
+                Tarrina 1/2 Litro<br />8.70€
+              </h4>
             </div>
             <a href="" class="card__icon">
             </a>
           </div>
         </article>
         <article class="card">
-          <div class="card__img" style="width: 80% !important; text-align:center;">
-            <img src="./dist/img/tarrinas/unLitro.png" style="width: 90% !important;" alt="granizados heladeria roma"
-              loading="lazy" />
+          <div
+            class="card__img"
+            style="width: 80% !important; text-align:center;"
+          >
+            <img
+              src="./dist/img/tarrinas/unLitro.png"
+              style="width: 90% !important;"
+              alt="granizados heladeria roma"
+              loading="lazy"
+            />
           </div>
           <div class="card__allergens">
-
           </div>
           <div class="card__precis">
             <a href="" class="card__icon">
             </a>
             <div class="card__name">
-              <h4>Tarrina 1 Litro<br/>17.50€</h4>
+              <h4>
+                Tarrina 1 Litro<br />17.50€
+              </h4>
             </div>
             <a href="" class="card__icon">
             </a>
           </div>
         </article>
       </div>
-      </>
-    )
+    </>
+  );
 }
