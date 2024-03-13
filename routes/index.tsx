@@ -14,6 +14,8 @@ export const handler: Handlers = {
 export default function Home(props: PageProps) {
   const { data } = props;
   const { ices } = data;
+  return (<h1>Heladeria roma</h1>)
+
   return (
     <>
       <Head>
